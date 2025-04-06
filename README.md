@@ -1,14 +1,14 @@
-🚀 Krish Rajput – Developer Portfolio
+#🚀 Krish Rajput – Developer Portfolio
+
 Welcome to my personal portfolio website built using React, TypeScript, and TailwindCSS.
 It showcases who I am, what I’ve built, and how to get in touch with me.
 
 🌐 Live Site: krish-portfolio.lovable.app
+
 📁 GitHub Repo: github.com/Krishrajput1107/krish-portfolio
 
-📸 Preview
-<!-- Optional: Add a screenshot here -->
 
-✨ Features
+##✨ Features
 🎯 Dynamic section highlighting on scroll
 
 📱 Mobile-responsive navbar with smooth transitions
@@ -21,7 +21,8 @@ It showcases who I am, what I’ve built, and how to get in touch with me.
 
 ⚙️ Easy to navigate & clean code structure
 
-🛠 Tech Stack
+##🛠 Tech Stack
+
 React
 
 TypeScript
@@ -32,11 +33,11 @@ Lucide Icons
 
 Shadcn/UI
 
-📄 Resume
+##📄 Resume
 📥 Download Resume
 Make sure Resume_1.pdf is located in the /public folder.
 
-🚀 Getting Started Locally
+##🚀 Getting Started Locally
 git clone https://github.com/Krishrajput1107/krish-portfolio.git
 cd krish-portfolio
 npm install
@@ -45,7 +46,7 @@ npm run dev
 Open your browser at http://localhost:3000
 
 
-📬 Contact
+##📬 Contact
 Feel free to reach out to me via:
 
 📧 Email: devgrade687@gmail.com
