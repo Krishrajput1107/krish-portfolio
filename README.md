@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+🚀 Krish Rajput – Developer Portfolio
+Welcome to my personal portfolio website built using React, TypeScript, and TailwindCSS.
+It showcases who I am, what I’ve built, and how to get in touch with me.
 
-## Project info
+🌐 Live Site: krish-portfolio.lovable.app
+📁 GitHub Repo: github.com/Krishrajput1107/krish-portfolio
 
-**URL**: https://lovable.dev/projects/fef873b4-a2d7-4c40-a2b1-8ed18b02f92b
+📸 Preview
+<!-- Optional: Add a screenshot here -->
 
-## How can I edit this code?
+✨ Features
+🎯 Dynamic section highlighting on scroll
 
-There are several ways of editing your application.
+📱 Mobile-responsive navbar with smooth transitions
 
-**Use Lovable**
+📄 Resume download functionality
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fef873b4-a2d7-4c40-a2b1-8ed18b02f92b) and start prompting.
+💼 Projects, Skills, Experience, and Education sections
 
-Changes made via Lovable will be committed automatically to this repo.
+🌙 Sleek and modern UI with TailwindCSS
 
-**Use your preferred IDE**
+⚙️ Easy to navigate & clean code structure
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🛠 Tech Stack
+React
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+TypeScript
 
-Follow these steps:
+TailwindCSS
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Lucide Icons
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Shadcn/UI
 
-# Step 3: Install the necessary dependencies.
-npm i
+📄 Resume
+📥 Download Resume
+Make sure Resume_1.pdf is located in the /public folder.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+🚀 Getting Started Locally
+git clone https://github.com/Krishrajput1107/krish-portfolio.git
+cd krish-portfolio
+npm install
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+Open your browser at http://localhost:3000
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+📬 Contact
+Feel free to reach out to me via:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📧 Email: devgrade687@gmail.com
 
-## What technologies are used for this project?
+💼 LinkedIn: linkedin.com/in/krishrajput
 
-This project is built with:
+📷 Instagram: @krishrajput.1107
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fef873b4-a2d7-4c40-a2b1-8ed18b02f92b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Made with ❤️ by Krish Rajput
