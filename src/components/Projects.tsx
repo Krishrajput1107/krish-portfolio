@@ -21,8 +21,8 @@ const Projects = () => {
         "Included a chatbot for instant help and a dashboard displaying the creators' information."
       ],
       tech: "HTML, CSS, JavaScript, Python",
-      repoLink: "#",
-      demoLink: "#"
+      repoLink: "https://github.com/Krishrajput1107/EduTech",
+      demoLink: "https://edutech-seven.vercel.app/"
     },
     {
       title: "Psoriasis Detection using CNN",
@@ -32,7 +32,7 @@ const Projects = () => {
         "Applied data preprocessing and augmentation techniques for better accuracy, achieving a validation accuracy of 99.7%."
       ],
       tech: "Python, TensorFlow, Keras, ResNet50",
-      repoLink: "#",
+      repoLink: "https://github.com/Krishrajput1107/Psoriasis-Detection-using-CNN",
       demoLink: null
     },
     {
@@ -44,8 +44,8 @@ const Projects = () => {
         "Delivered actionable insights to support decision-making."
       ],
       tech: "Power BI, DAX, Power Query, PostgreSQL",
-      repoLink: "#",
-      demoLink: "#"
+      repoLink: "https://github.com/Krishrajput1107/Credit-Card-Financial-Dashboard",
+      demoLink: null
     },
     {
       title: "Diamond Price Prediction",
@@ -56,7 +56,7 @@ const Projects = () => {
         "Trained and evaluated multiple regression models (Linear Regression, Lasso, Ridge, ElasticNet) to determine the best-performing model."
       ],
       tech: "Python, Pandas, Scikit-learn, NumPy, Regression Models",
-      repoLink: "#",
+      repoLink: "https://github.com/Krishrajput1107/Diamond-Price-prediction",
       demoLink: null
     }
   ];
