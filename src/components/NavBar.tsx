@@ -75,7 +75,7 @@ const NavBar = () => {
             </a>
           ))}
           <Button asChild className="ml-2">
-            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Resume_1.pdf" target="_blank" rel="noopener noreferrer">
               Resume
             </a>
           </Button>
@@ -96,9 +96,7 @@ const NavBar = () => {
                 </a>
               ))}
               <Button asChild className="mt-4 w-full">
-                <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-                  Resume
-                </a>
+              <a href="/Resume_1.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
               </Button>
             </nav>
           </div>
