@@ -1,4 +1,4 @@
-# 🚀 Krish Rajput – Developer Portfolio
+# 🚀 Krish – Developer Portfolio
 
 Welcome to my personal portfolio website built using React, TypeScript, and TailwindCSS. It showcases who I am, what I’ve built, and how to get in touch with me.
 
