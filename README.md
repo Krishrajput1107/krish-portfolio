@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website built using React, TypeScript, and TailwindCSS. It showcases who I am, what I’ve built, and how to get in touch with me.
 
-🌐 **Live Site**: [krish-portfolio.lovable.app](https://krish-portfolio.lovable.app)  
+🌐 **Live Site**: [krish-portfolio]([https://krish-portfolio.lovable.app](https://krishgrade-portfolio.vercel.app/))  
 📁 **GitHub Repo**: [github.com/Krishrajput1107/krish-portfolio](https://github.com/Krishrajput1107/krish-portfolio)
 
 ---
