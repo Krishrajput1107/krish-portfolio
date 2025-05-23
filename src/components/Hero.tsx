@@ -11,7 +11,7 @@ const Hero = () => {
             <span className="text-primary">K</span>rish
           </h1>
           <h2 className="text-2xl md:text-3xl mb-6 text-slate-dark animate-fade-in" style={{ animationDelay: "0.2s" }}>
-            Machine Learning Engineer & Full Stack Developer
+            AIML Engineer & Full Stack Developer
           </h2>
           <p className="text-lg mb-8 text-slate animate-fade-in" style={{ animationDelay: "0.4s" }}>
             B. Tech Computer Science graduate with expertise in machine learning,
