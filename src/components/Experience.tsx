@@ -43,7 +43,7 @@ const Experience = () => {
               <span className="text-primary font-bold">•</span>
               <div>
                 <p className="font-medium">Dean's Letter of Appreciation</p>
-                <p className="text-slate">Received for achieving 9.88 SGPA in the 4th semester.</p>
+                <p className="text-slate">Received 2 times for achieving 9.88 SGPA in the 4th semester and 9.54 SGPA in the 5th semester.</p>
               </div>
             </li>
             <li className="flex gap-2">
