@@ -21,10 +21,10 @@ const Skills = () => {
     {
       title: "Tools and Frameworks",
       skills: [
+        "Wordpress",
         "React", 
         "Tailwind CSS", 
         "Power BI", 
-        "Tableau", 
         "Jira", 
         "Keras", 
         "TensorFlow", 
@@ -47,7 +47,7 @@ const Skills = () => {
         "Data Structures and Algorithms", 
         "Data Science (Specialisation)", 
         "Operating Systems", 
-        "DBMS", 
+        "Database Management System(DBMS)", 
         "Computer Networks"
       ]
     }
