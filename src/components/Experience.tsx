@@ -1,4 +1,3 @@
-
 import { 
   Card, 
   CardContent, 
@@ -13,6 +12,31 @@ const Experience = () => {
       <div className="container mx-auto">
         <h2 className="section-title">Experience</h2>
         
+        {/* WordPress Developer Intern - Interview Kickstart */}
+        <Card className="mb-8">
+          <CardHeader>
+            <div className="flex flex-wrap justify-between items-start gap-2">
+              <div>
+                <CardTitle className="text-xl">Intern - WordPress Developer</CardTitle>
+                <CardDescription className="text-lg font-medium">Interview Kickstart</CardDescription>
+              </div>
+              <div className="text-right">
+                <p className="text-sm text-muted-foreground">July 2025 - Present</p>
+                <p className="text-sm text-muted-foreground">Remote</p>
+              </div>
+            </div>
+          </CardHeader>
+          <CardContent>
+            <ul className="list-disc ml-5 space-y-2">
+              <li>Created and managed multiple WordPress pages for courses, webinars, and masterclasses</li>
+              <li>Currently contributing to the development of a Resume Analyzer webpage</li>
+              <li>Worked on optimizing page design and improving user experience across WordPress sites</li>
+              <li>Collaborated with cross-functional teams to align website content with company goals</li>
+            </ul>
+          </CardContent>
+        </Card>
+
+        {/* Machine Learning Intern - VerveBridge */}
         <Card className="mb-8">
           <CardHeader>
             <div className="flex flex-wrap justify-between items-start gap-2">
@@ -36,6 +60,7 @@ const Experience = () => {
           </CardContent>
         </Card>
         
+        {/* Achievements */}
         <div className="mt-12">
           <h3 className="text-2xl font-serif font-bold mb-6">Achievements</h3>
           <ul className="space-y-4">
